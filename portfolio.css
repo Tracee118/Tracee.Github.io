@@ -18,12 +18,13 @@ header{
 header h1{
   font-size:f2.2rem;
   margin-bottom:8px;
-  text-transformation:uppercase;
+  text-transform:uppercase;
   letter-spacing: 1px;
 }
 header p{
   font-size: 1.1rem;
-  color:#cbd5e0;,argin-bottom: 15px;
+  color:#cbd5e0;
+  margin-bottom: 15px;
 }
 
 .container {
